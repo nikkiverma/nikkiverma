@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkiverma
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning Android studio,Advance Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -through my mail cse2024nikita105@iesuniversity.ac.in
